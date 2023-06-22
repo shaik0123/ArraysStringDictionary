@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\bin\Debug\netcoreapp3.1\ArrayStringDictionary.exe
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\bin\Debug\netcoreapp3.1\ArrayStringDictionary.deps.json
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\bin\Debug\netcoreapp3.1\ArrayStringDictionary.runtimeconfig.json
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\bin\Debug\netcoreapp3.1\ArrayStringDictionary.runtimeconfig.dev.json
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\bin\Debug\netcoreapp3.1\ArrayStringDictionary.dll
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\bin\Debug\netcoreapp3.1\ArrayStringDictionary.pdb
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\obj\Debug\netcoreapp3.1\ArrayStringDictionary.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\obj\Debug\netcoreapp3.1\ArrayStringDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\obj\Debug\netcoreapp3.1\ArrayStringDictionary.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\obj\Debug\netcoreapp3.1\ArrayStringDictionary.AssemblyInfo.cs
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\obj\Debug\netcoreapp3.1\ArrayStringDictionary.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\obj\Debug\netcoreapp3.1\ArrayStringDictionary.dll
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\obj\Debug\netcoreapp3.1\ArrayStringDictionary.pdb
+C:\Users\91951\source\repos\ArrayStringDictionary\ArrayStringDictionary\obj\Debug\netcoreapp3.1\ArrayStringDictionary.genruntimeconfig.cache
